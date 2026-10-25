@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.venv/
+build/character_packs_host.S
