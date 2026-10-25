@@ -1,0 +1,9 @@
+{
+  "id": "solar",
+  "name": "Solar",
+  "layout": "base-patch",
+  "frames": "frames.bin",
+  "metadata": "frames.json",
+  "motionSpeed": 1.0,
+  "walk": null
+}
